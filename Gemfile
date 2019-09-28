@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gemspec
+# gemspec
 
 gem "bundler"
 gem "chandler" if RUBY_VERSION != "2.0.0"
